@@ -55,20 +55,25 @@ A dashboard that provides insights into potential risks the University of Michig
 - **Technologies:** Python, React, Firebase, MaizeyAI API
 - **Features:** Data visualization, risk ranking and assessment, trend prediction, interactive charts
 
-#### [ProfitPeak](https://github.com/username/profitpeak)
+#### [ProfitPeak]
 A predictive pricing tool to help businesses optimize their pricing strategies using machine learning.
 - **Technologies:** HTML, CSS, JS, Supabase, Google OAuth
 - **Features:** User inputs, OpenAI API integration for price prediction
 
-#### [Closet Swap](https://github.com/username/closet-swap)
+#### [Closet Swap]
 A React.js site for University of Michigan students to sell and rent used clothes.
 - **Technologies:** React, Supabase, Bootstrap
 - **Features:** User authentication, product listing
 
-#### [System82](https://github.com/username/system82)
+#### [System82]
 An award-winning game developed during a hackathon, featuring interactive puzzles and a chatbot disguised as a big-tech company website
 - **Technologies:** Python, PyTorch
 - **Features:** Mini puzzles, chatbot integration
+
+#### [State of API Directory]
+A comprehensive visualization project aimed at maintaining up-to-date and accurate visualizations of key metrics related to an extensive API directory
+- **Technologies:** Python, Jupyter Notebook, Pandas, Matplotlib, REST APIs
+- **Features:** Automatic Data Retrieval, visualization generation, repository updates
 
 ### 💼 Experience
 - **Internships:** University of Michigan Information Technology Services (API Directory), UGenomeAI, GlobalShala
