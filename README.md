@@ -6,18 +6,18 @@ I am a passionate Computer Science and Statistics student at the University of M
 ### 📚 My Research Interests
 - Machine Learning
 - Data Science
-- Predictive Analytics
+- Cybersecurity
 - Natural Language Processing
 
 ### 🤝 I am open to:
-- Collaborations on machine learning and web development projects
-- Research internships
+- Collaborations on machine learning projects
+- AI, cybersecurity, and software engineering internships
 - Contributing to open source projects
 - Networking with professionals in the tech industry
 
 ### 🎓 Education
 - **University of Michigan** - B.S. in Computer Science and Statistics (Expected May 2026)
-- Relevant Coursework: Data Structures and Algorithms, Data Science, Machine Learning, Computer Architecture
+- Relevant Coursework: Data Structures and Algorithms, Practical Data Science, Machine Learning, Linear Algebra, Discrete Math
 
 ### 🛠 Skills
 #### Languages:
