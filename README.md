@@ -50,27 +50,27 @@ I am a passionate Computer Science and Statistics student at the University of M
 
 ### 🚀 Projects
 
-#### [Risk Intelligence Dashboard]
+#### Risk Intelligence Dashboard
 A dashboard that provides insights into potential risks the University of Michigan faces by analyzing historic data and predicting future trends.
 - **Technologies:** Python, React, Firebase, MaizeyAI API
 - **Features:** Data visualization, risk ranking and assessment, trend prediction, interactive charts
 
-#### [ProfitPeak]
+#### ProfitPeak
 A predictive pricing tool to help businesses optimize their pricing strategies using machine learning.
 - **Technologies:** HTML, CSS, JS, Supabase, Google OAuth
 - **Features:** User inputs, OpenAI API integration for price prediction
 
-#### [Closet Swap]
+#### Closet Swap
 A React.js site for University of Michigan students to sell and rent used clothes.
 - **Technologies:** React, Supabase, Bootstrap
 - **Features:** User authentication, product listing
 
-#### [System82]
+#### System82
 An award-winning game developed during a hackathon, featuring interactive puzzles and a chatbot disguised as a big-tech company website
 - **Technologies:** Python, PyTorch
 - **Features:** Mini puzzles, chatbot integration
 
-#### [State of API Directory]
+#### State of API Directory
 A comprehensive visualization project aimed at maintaining up-to-date and accurate visualizations of key metrics related to an extensive API directory
 - **Technologies:** Python, Jupyter Notebook, Pandas, Matplotlib, REST APIs
 - **Features:** Automatic Data Retrieval, visualization generation, repository updates
