@@ -82,7 +82,7 @@ A comprehensive visualization project aimed at maintaining up-to-date and accura
 
 ### 📫 How to reach me
 - **Email:** hanahmed@umich.edu
-- **LinkedIn:** [linkedin.com/in/hana-ahmed](https://www.linkedin.com/in/hana-ahmed)
+- **LinkedIn:** [https://www.linkedin.com/in/hanahmed/](https://www.linkedin.com/in/hanahmed/)
 
 ---
 
