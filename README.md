@@ -1,13 +1,12 @@
-# Hi there 👋, I'm Hana Ahmed
+# Hi 👋, I'm Hana Ahmed
 
 ### 👩‍💻 About Me
 I am a passionate Computer Science and Statistics student at the University of Michigan, expected to graduate in May 2026. I enjoy solving complex problems, building interactive web applications, and working on innovative projects.
 
-### 📚 My Research Interests
+### 📚 My Career Interests
 - Machine Learning
 - Data Science
 - Cybersecurity
-- Natural Language Processing
 
 ### 🤝 I am open to:
 - Collaborations on machine learning projects
