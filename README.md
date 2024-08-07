@@ -1,21 +1,16 @@
-# Hi 👋, I'm Hana Ahmed
+# Hi! I'm Hana Ahmed
 
 ### 👩‍💻 About Me
-I am a passionate Computer Science and Statistics student at the University of Michigan, expected to graduate in May 2026. I enjoy solving complex problems, building interactive web applications, and working on innovative projects.
+I am a passionate Computer Science and Statistics student at the University of Michigan. I enjoy solving complex problems and working on innovative projects.
 
 ### 📚 My Career Interests
 - Machine Learning
 - Data Science
 - Cybersecurity
 
-### 🤝 I am open to:
-- Collaborations on machine learning projects
-- AI, cybersecurity, and software engineering internships
-- Contributing to open source projects
-- Networking with professionals in the tech industry
 
 ### 🎓 Education
-- **University of Michigan** - B.S. in Computer Science and Statistics (Expected May 2026)
+- **University of Michigan** - B.S. in Computer Science and Statistics 
 - Relevant Coursework: Data Structures and Algorithms, Practical Data Science, Machine Learning, Linear Algebra, Discrete Math
 
 ### 🛠 Skills
@@ -41,7 +36,6 @@ I am a passionate Computer Science and Statistics student at the University of M
 ![Unix](https://img.shields.io/badge/-Unix-lightgrey)
 ![NLP](https://img.shields.io/badge/-NLP-lightgreen)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192)
-![Linux](https://img.shields.io/badge/-Linux-yellow)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-brightgreen)
 ![Postman](https://img.shields.io/badge/-Postman-orange)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E)
